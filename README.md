@@ -1,4 +1,4 @@
-# Yuki Hook API
+# Yuki Hook
 
 [![GitHub license](https://img.shields.io/github/license/HighCapable/YukiHookAPI?color=blue)](https://github.com/HighCapable/YukiHookAPI/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/HighCapable/YukiHookAPI?display_name=release&logo=github&color=green)](https://github.com/HighCapable/YukiHookAPI/releases)
